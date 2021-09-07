@@ -1,0 +1,377 @@
+@media (min-width: 2000px) and (max-width: 2599px){
+    body p{
+        font-size: 25px;
+    }
+    .features_sec .content_part h4 {
+        font-size: 30px;
+    }
+    .banner .banner_heading .p {
+        padding-bottom: 60px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399px){
+    section.banner .row {
+        padding-top: 50px;
+    }
+    .banner_img_part .col-md-4 {
+        margin-bottom: 130px;
+    }
+    .banner_heading p {
+        padding-bottom: 30px;
+        padding-top: 15px;
+    }
+    .banner_img_part .row {
+        padding: 70px 0 0;
+    }
+    .landing {
+        padding: 100px 0;
+    }
+    .client{
+        width: 57% !important ;
+        padding: 30px 0;
+    }
+    .testimonial {
+        padding: 100px 0;
+    }
+    .dis_sec .dis_img {
+        width: 70%;
+        margin: auto;
+    }
+    .dis_sec .dis_img{
+        padding: 60px 0;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1699px){
+    section.banner .row {
+        padding-top: 50px;
+    }
+    .banner_img_part .col-md-4 {
+        margin-bottom: 130px;
+    }
+    .banner_heading p {
+        padding-bottom: 30px;
+        padding-top: 15px;
+    }
+    .banner_img_part .row {
+        padding: 70px 0 0;
+    }
+    .landing {
+        padding: 100px 0;
+    }
+    .client{
+        width: 57% !important ;
+        padding: 30px 0;
+    }
+    .testimonial {
+        padding: 130px 0;
+    }
+    .dis_sec .dis_img {
+        width: 70%;
+        margin: auto;
+    }
+    .dis_sec .dis_img{
+        padding: 60px 0;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .view_part .banner_heading {
+        padding: 0 30px;
+    }
+    .features_sec .content_part{
+        margin: 0 0px;
+    }
+    .landing {
+        padding: 100px 0 !important;
+    }
+    .client{
+        width: 70% !important ;
+    }
+    .dis_sec .dis_img {
+        width: 80%;
+        margin: auto;
+    }
+    footer .left_part ol li {
+        margin-right: 10px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px), (min-width: 992px) and (max-width: 1199px){
+    .offcanvas-menu {
+        margin-top: 40px!important;
+    }
+    .navbar-brand img {
+        width: 90% !important;
+    }
+    section.banner .row {
+        padding-top: 50px;
+    }
+    .navbar {
+        padding: 10px;
+    }
+    .banner_img_part .col-md-4 {
+        margin-bottom: 130px;
+    }
+    .banner_heading p {
+        padding-bottom: 30px;
+        padding-top: 15px;
+    }
+    .banner_img_part .row {
+        padding: 70px 0 0;
+    }
+    .view_part .banner_heading h1 {
+        font-size: 31px;
+    }
+    .view_part p, .landing .content_part p {
+        line-height: 32px;
+    }
+    .features_sec .fea_img {
+        display: none;
+    }
+    .features_sec .container .row .col-lg-12 {
+        margin: 0 !important;
+        display: flex;
+        text-align: center;
+    }
+    .features_sec .banner_heading h1 {
+        margin-bottom: 70px;
+    }
+    .features_sec .content_part{
+        margin: 0 10px;
+        padding-bottom: 30px;
+    }
+    .landing, .landing .content_part h2, .client {
+        padding: 30px 0;
+    }
+    .testimonial {
+        padding: 80px 0;
+    }
+    .testimonial h3 {
+        line-height: 40px;
+    }
+    .client{
+        width: 90%;
+    }
+    .client_img.fix {
+        margin-right: 20px !important;
+    }
+    .dis_sec, .dis_sec .dis_img {
+        padding: 60px 0;
+    }
+    footer .left_part, footer .right_part {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+        text-align: center !important;
+    }
+    footer .left_part ol li:last-child {
+        margin: 0;
+    }
+}    
+@media (min-width: 576px) and (max-width: 767px){
+    .features_sec .container .row .col-lg-12 {
+        margin: 0 !important;
+        display: flex !important;
+        text-align: center;
+    }
+    .landing {
+        padding: 40px 0 !important;
+    }
+    .client_img.fix {
+        margin-right: 20px !important;
+    }
+}
+@media screen and (max-width: 800px) {
+    .wow{
+        animation-name: none !important;
+        visibility: visible !important;
+    }
+}
+@media (min-width: 0) and (max-width: 575px), (min-width: 576px) and (max-width: 767px){
+    .offcanvas-menu {
+        margin-top: 20px!important;
+    }
+    .navbar-brand img {
+        width: 80% !important;
+    }
+    section.banner .row {
+        padding-top: 30px;
+    }
+    .banner_heading p {
+        padding-bottom: 30px;
+        padding-top: 15px;
+    }
+    section.banner_img_part .row {
+        padding-top: 50px;
+    }
+    .banner_img_part {
+        background-image: none;
+    }
+    .navbar {
+        padding: 10px;
+    }
+    .img_part {
+        margin-bottom: 70px;
+    }
+    .view_part .col-md-6 img, .features_sec .fea_img {
+        display: none;
+    }
+    .navbar-nav {
+        text-align: start !important;
+    }
+    .offcanvas-start {
+        width: 300px;
+    }
+    .navbar-nav .nav-item {
+        padding: 10px 10px;
+    }
+    .nav-link {
+        font-size: 15px;
+    }
+    .view_part .banner_heading {
+        text-align: center;
+    }
+    .view_part p, .landing .content_part p {
+        line-height: 30px;
+    }
+    .view_part {
+        padding-bottom: 80px;
+    }
+    .features_sec {
+        text-align: center;
+    }
+    .features_sec .content_part {
+        margin-bottom: 50px;
+    }
+    .features_sec .content_part{
+        margin: 0 10px;
+    }
+    .features_sec .banner_heading {
+        padding-bottom: 70px;
+    }
+    .landing {
+        padding: 60px 0;
+    }
+    .dis_sec .heading p {
+        line-height: 30px;
+    }
+    .testimonial {
+        padding: 50px 0 70px;
+    }
+    .client {
+        padding: 10px 0;
+    }
+    .client .client_des h2 {
+        font-size: 20px;
+    }
+    .testimonial h3 {
+        font-size: 22px;
+    }
+    footer .right_part {
+        text-align: center !important;
+    }
+    footer .left_part {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .dis_sec {
+        padding: 60px 0;
+    }
+    footer .left_part ol li:last-child {
+        margin: 0 !important;
+    }
+}
+
+@media (min-width: 426px) and (max-width: 517px), (min-width: 518px) and (max-width: 547px){
+    .client_des h2 {
+        font-size: 16px !important;
+    }
+    .client_img.fix {
+        width: 56px !important;
+        margin-right: 10px !important;
+    }
+}
+@media (min-width: 0) and (max-width: 425px){
+    .client {
+        width: 100% !important;
+    }
+    .client_img.fix {
+        width: 56px !important;
+        margin-right: 10px ;
+    }
+    .client_des h2 {
+        font-size: 16px !important;
+    }
+    .landing {
+        padding: 30px 0 60px;
+    }
+    .dis_sec .dis_img {
+        padding: 50px 0;
+    }
+    .testimonial h3 {
+        font-size: 20px;
+    }
+    .banner_img_part .img_part img {
+        width: 70%;
+    }
+    
+}
+@media (min-width: 376px) and (max-width: 415px), (min-width: 415px) and (max-width: 424px){
+    /* .client {
+        width: 100% !important;
+    } */
+    .client_des h2 {
+        font-size: 13px !important;
+    }
+    .client_img {
+        width: 50px !important;
+        margin-right: 10px !important;
+    }
+
+}
+@media (min-width: 0) and (max-width: 375px){
+    a.navbar-brand {
+        width: 60%;
+    }
+    .testimonial h3 {
+        font-size: 18px;
+    }
+    .client_img {
+        width: 50px !important;
+        margin-right: 5px !important;
+    }
+    .client_des h2 {
+        font-size: 13px !important;
+    }
+    footer .left_part ol li {
+        margin-right: 10px !important;
+        font-size: 16px;
+    }
+    footer .right_part p {
+        font-size: 16px;
+    }
+    .offcanvas-start {
+        width: 270px;
+    }
+}
+@media (min-width: 321px) and (max-width: 356px){
+    .client_des h2 {
+        font-size: 12px !important;
+    }
+    .client_img {
+        width: 50px !important;
+        margin-right: 7px !important;
+    }
+}
+@media (min-width: 0) and (max-width: 320px), (min-width: 321px) and (max-width: 356px){
+    footer .left_part ol li, footer .right_part p {
+        font-size: 15px;
+    }
+    .client_img.fix {
+        width: 40px !important;
+    }
+    .client_des h2 {
+        font-size: 12px !important;
+    }
+}
